@@ -1,0 +1,17 @@
+C:\Users\bymar\source\repos\final prog 3\final prog 3\obj\Debug\final prog 3.csproj.AssemblyReference.cache
+C:\Users\bymar\source\repos\final prog 3\final prog 3\obj\Debug\final prog 3.csproj.CoreCompileInputs.cache
+C:\Users\bymar\source\repos\final prog 3\final prog 3\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\bymar\source\repos\final prog 3\final prog 3\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\bymar\source\repos\final prog 3\final prog 3\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\bymar\source\repos\final prog 3\final prog 3\bin\Debug\final prog 3.exe.config
+C:\Users\bymar\source\repos\final prog 3\final prog 3\bin\Debug\final prog 3.exe
+C:\Users\bymar\source\repos\final prog 3\final prog 3\bin\Debug\final prog 3.pdb
+C:\Users\bymar\source\repos\final prog 3\final prog 3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bymar\source\repos\final prog 3\final prog 3\bin\Debug\System.Drawing.Common.dll
+C:\Users\bymar\source\repos\final prog 3\final prog 3\bin\Debug\WebDriver.dll
+C:\Users\bymar\source\repos\final prog 3\final prog 3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bymar\source\repos\final prog 3\final prog 3\bin\Debug\System.Drawing.Common.xml
+C:\Users\bymar\source\repos\final prog 3\final prog 3\bin\Debug\WebDriver.xml
+C:\Users\bymar\source\repos\final prog 3\final prog 3\obj\Debug\final prog 3.csproj.CopyComplete
+C:\Users\bymar\source\repos\final prog 3\final prog 3\obj\Debug\final prog 3.exe
+C:\Users\bymar\source\repos\final prog 3\final prog 3\obj\Debug\final prog 3.pdb
